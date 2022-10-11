@@ -8,3 +8,11 @@ Los datasets que se cargarán tienen una validación cruzada (Cross-Validation) 
 Los Algoritmos utilizados son CNN (Condensed nearest neighbor) y  ENN ( Edited nearest neighbor) 
 
 
+Enlace: http://www.uhu.es/mecofin/docencia/tfm/20212022/ 
+
+
+Dont forget cite any information about my investigation
+
+
+Marco Antonio Peña Cubillos
+
