@@ -1,4 +1,4 @@
 # Datasets-tesis
-Datasets probados para IS 
+Datasets tradicionales que se utilizaran para pruebas de algoritmos de selección de instancias 
 
-Se subiran los train datasets con un 75% 25% para experimentos con algoritmos de IS 
+Los datasets que se cargarán tienen una validación cruzada (Cross-Validation) de K-4 Folds
