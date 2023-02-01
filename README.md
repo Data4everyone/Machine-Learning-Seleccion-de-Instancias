@@ -1,4 +1,4 @@
-# Data sets entrenados para trabajo fin de máster 
+# Notebooks para trabajo fin de máster 
 # Tema: Técnicas de Selección de instancias
 
 Datasets tradicionales que se utilizaran para pruebas de algoritmos de selección de instancias 
